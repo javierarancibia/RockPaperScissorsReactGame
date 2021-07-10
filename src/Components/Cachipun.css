@@ -1,0 +1,17 @@
+.global_container {
+    margin: 25px 50px 75px 100px;
+    top: 50%;
+    
+}
+
+.alert {
+    margin-left:150px;
+    margin-right:150;
+    margin-top:150;
+}
+
+.buttons-div{
+    margin-top:200px; 
+    margin-left:150px;
+    margin-right:50px;
+}
