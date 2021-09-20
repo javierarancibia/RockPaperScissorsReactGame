@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/RockPaperScissorsReactGame/static/css/main.4f7c966d.chunk.css",
+    "main.js": "/RockPaperScissorsReactGame/static/js/main.33222976.chunk.js",
+    "main.js.map": "/RockPaperScissorsReactGame/static/js/main.33222976.chunk.js.map",
+    "runtime-main.js": "/RockPaperScissorsReactGame/static/js/runtime-main.84ea9740.js",
+    "runtime-main.js.map": "/RockPaperScissorsReactGame/static/js/runtime-main.84ea9740.js.map",
+    "static/css/2.953545a5.chunk.css": "/RockPaperScissorsReactGame/static/css/2.953545a5.chunk.css",
+    "static/js/2.91e8b96a.chunk.js": "/RockPaperScissorsReactGame/static/js/2.91e8b96a.chunk.js",
+    "static/js/2.91e8b96a.chunk.js.map": "/RockPaperScissorsReactGame/static/js/2.91e8b96a.chunk.js.map",
+    "index.html": "/RockPaperScissorsReactGame/index.html",
+    "static/css/2.953545a5.chunk.css.map": "/RockPaperScissorsReactGame/static/css/2.953545a5.chunk.css.map",
+    "static/css/main.4f7c966d.chunk.css.map": "/RockPaperScissorsReactGame/static/css/main.4f7c966d.chunk.css.map",
+    "static/js/2.91e8b96a.chunk.js.LICENSE.txt": "/RockPaperScissorsReactGame/static/js/2.91e8b96a.chunk.js.LICENSE.txt",
+    "static/media/paper.4b763dd5.gif": "/RockPaperScissorsReactGame/static/media/paper.4b763dd5.gif",
+    "static/media/rock.17869112.gif": "/RockPaperScissorsReactGame/static/media/rock.17869112.gif",
+    "static/media/rps.9f9674be.gif": "/RockPaperScissorsReactGame/static/media/rps.9f9674be.gif",
+    "static/media/scissors.a3c5c941.gif": "/RockPaperScissorsReactGame/static/media/scissors.a3c5c941.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84ea9740.js",
+    "static/css/2.953545a5.chunk.css",
+    "static/js/2.91e8b96a.chunk.js",
+    "static/css/main.4f7c966d.chunk.css",
+    "static/js/main.33222976.chunk.js"
+  ]
+}
